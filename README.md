@@ -1,0 +1,2 @@
+# androidzhaoxiaogang
+For FancyTrendChart project."
